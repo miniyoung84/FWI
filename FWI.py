@@ -1,6 +1,6 @@
-#FWI Test
-#Test Written by Min Choi and Nicholas Eickhoff
-#Developed by Min Choi, Ashmita Sarma, Nicholas Eickhoff, Lokesh Nasaka
+#Copyright 2018 <Min Choi>
+#Developed by Min Choi, Ashmita Sarma, Nick Eickhoff, and Lokesh Nasaka
+#Written by Min Choi, Nick Eickhoff, Katie Amundson, and Rowen Guncheon
 
 alphabet=['A','B','C','D','E','F','G','H','I']
 
